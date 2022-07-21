@@ -1,3 +1,1 @@
-Another
-Another
-Another
+解决冲突后的代码
